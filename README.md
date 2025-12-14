@@ -21,3 +21,6 @@ It uses pivot tables, slicers, and charts to present insights clearly.
 2. Open in Microsoft Excel
 3. Enable editing if prompted
 4. Use slicers to explore data
+
+
+
